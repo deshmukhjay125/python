@@ -31,10 +31,6 @@
 # print(set(b))
 # print(set(a)+ set(b))
 
-# # DA -> powerBI, SQL, Adv Excel
-# # DS -> Python + Adv_Python, ML, World CloudAI
-
-
 # # print(bool(a))
 # # print(bool(b))
 # # print(bool(a)+bool(b))
